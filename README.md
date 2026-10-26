@@ -11,6 +11,14 @@ wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
 接着通过 apt 命令完成安装
 sudo apt install ./google-chrome-stable_current_amd64.deb
 安装后，输入 google-chrome 或在系统的应用菜单中即可启动浏览器
+### 🖥️ Ubuntu 虚拟机运行效果
+成功安装 Google Chrome 后，可以在 Ubuntu 64-bit 虚拟机中启动浏览器。运行效果如下：
+<p align="center">
+  <img src="images/ubuntu-chrome-demo.png" alt="Ubuntu 64-bit 虚拟机中运行 Google Chrome" width="900">
+</p>
+<p align="center">
+  <em>图：Ubuntu 64-bit（VMware Workstation）中成功启动 Google Chrome</em>
+</p>
 
 通过Google浏览器，你是不能访问国内某些ai网站的，只能通过中转的方式（如baidu.com等等这些国内的网页）
 我下载Google浏览器主要是为了用Deepseek或者豆包，这里有一个好处，Deepseek你同时在2个浏览器登陆并且使用是不会产生系统互斥的问题的
