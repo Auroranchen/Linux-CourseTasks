@@ -15,5 +15,5 @@ sudo apt install ./google-chrome-stable_current_amd64.deb
 通过Google浏览器，你是不能访问国内某些ai网站的，只能通过中转的方式（如baidu.com等等这些国内的网页）
 我下载Google浏览器主要是为了用Deepseek或者豆包，这里有一个好处，Deepseek你同时在2个浏览器登陆并且使用是不会产生系统互斥的问题的
 这种linux系统的虚拟机的终端的话，复制粘贴和电脑的方式不同，它是Ctrl+Shift+C/V
-<img width="2560" height="1540" alt="c7934bb7405bb6073eb36fb2b332d82d" src="https://github.com/user-attachments/assets/c4006fb5-8c2f-4f67-8f43-71c53668878e" />
+<img width="860" height="740" alt="c7934bb7405bb6073eb36fb2b332d82d" src="https://github.com/user-attachments/assets/c4006fb5-8c2f-4f67-8f43-71c53668878e" />
 
